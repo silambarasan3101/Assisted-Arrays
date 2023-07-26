@@ -1,0 +1,8 @@
+E:\hd\Assisted-Arrays\Assisted-Arrays\bin\Debug\Assisted-Arrays.exe.config
+E:\hd\Assisted-Arrays\Assisted-Arrays\bin\Debug\Assisted-Arrays.exe
+E:\hd\Assisted-Arrays\Assisted-Arrays\bin\Debug\Assisted-Arrays.pdb
+E:\hd\Assisted-Arrays\Assisted-Arrays\obj\Debug\Assisted-Arrays.csproj.AssemblyReference.cache
+E:\hd\Assisted-Arrays\Assisted-Arrays\obj\Debug\Assisted-Arrays.csproj.SuggestedBindingRedirects.cache
+E:\hd\Assisted-Arrays\Assisted-Arrays\obj\Debug\Assisted-Arrays.csproj.CoreCompileInputs.cache
+E:\hd\Assisted-Arrays\Assisted-Arrays\obj\Debug\Assisted-Arrays.exe
+E:\hd\Assisted-Arrays\Assisted-Arrays\obj\Debug\Assisted-Arrays.pdb
